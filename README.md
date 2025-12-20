@@ -43,5 +43,3 @@ bash
 
 3. When prompted, enter the size of the square matrix and press Enter.
 
-
-İstəsən, bir az da **texniki** (compiler qeydi, C++ standard) və ya **daha sadə dil** versiyasını da yaza bilərəm 👍
